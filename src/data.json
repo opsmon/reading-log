@@ -1,10 +1,10 @@
 {
   "year": 2026,
-  "generated_at": "2026-09-05T14:27:05Z",
+  "generated_at": "2026-09-09T07:36:52Z",
   "summary": {
     "books": 15,
     "courses": 23,
-    "events": 32,
+    "events": 33,
     "webinars": 54
   },
   "activities": [
@@ -1824,6 +1824,21 @@
         {
           "label": "deeptechnight.ru",
           "url": "https://deeptechnight.ru/"
+        }
+      ]
+    },
+    {
+      "type": "events",
+      "month": "September",
+      "month_index": 8,
+      "year": 2026,
+      "title": "IT Elements 2026",
+      "meta": "IT engineering conference on infrastructure, cybersecurity, disaster recovery, and operations, Moscow",
+      "date": "09.09.2026 – 10.09.2026",
+      "links": [
+        {
+          "label": "it-elements.ru",
+          "url": "https://it-elements.ru/"
         }
       ]
     }
