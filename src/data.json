@@ -1,11 +1,11 @@
 {
   "year": 2026,
-  "generated_at": "2026-09-09T07:36:52Z",
+  "generated_at": "2026-09-11T08:29:37Z",
   "summary": {
     "books": 15,
     "courses": 23,
     "events": 33,
-    "webinars": 54
+    "webinars": 55
   },
   "activities": [
     {
@@ -1839,6 +1839,21 @@
         {
           "label": "it-elements.ru",
           "url": "https://it-elements.ru/"
+        }
+      ]
+    },
+    {
+      "type": "webinars",
+      "month": "September",
+      "month_index": 8,
+      "year": 2026,
+      "title": "Kolmogorov.ai AI Agent Factory on Selectel Infrastructure",
+      "meta": "Online webinar",
+      "date": "11.09.2026",
+      "links": [
+        {
+          "label": "youtube.com",
+          "url": "https://www.youtube.com/live/iZ7jz-JadFo"
         }
       ]
     }
